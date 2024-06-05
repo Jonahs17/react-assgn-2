@@ -1,0 +1,6 @@
+[submodule "userpage-app"]
+	path = userpage-app
+	url = https://github.com/Jonahs17/userpage-app
+[submodule "counter-app"]
+	path = counter-app
+	url = https://github.com/Jonahs17/counter-app
